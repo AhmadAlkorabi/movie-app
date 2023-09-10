@@ -1,0 +1,9 @@
+.landing{
+    background-color: rgba(252, 204, 204, 0.927);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
